@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/10/10 21:33:02.000.859,=C:\Users\Jean\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2021/10/10 21:33:02.000.526,=C:\Users\Jean\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>2021/10/10 21:34:55.000.173,C:\Users\Jean\Documents\Embarcadero\Studio\Projects\Unit1.h=D:\NCTU\DIF\Data Structures\HW02_permutation.h</Transaction>
+    <Transaction>2021/10/10 21:34:55.000.173,C:\Users\Jean\Documents\Embarcadero\Studio\Projects\Unit1.cpp=D:\NCTU\DIF\Data Structures\HW02_permutation.cpp</Transaction>
+    <Transaction>2021/10/10 21:34:55.000.173,C:\Users\Jean\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\NCTU\DIF\Data Structures\HW02_permutation.dfm</Transaction>
+    <Transaction>2021/10/10 21:35:24.000.283,C:\Users\Jean\Documents\Embarcadero\Studio\Projects\Project2PCH1.h=D:\NCTU\DIF\Data Structures\PermutationPCH1.h</Transaction>
+    <Transaction>2021/10/10 21:35:29.000.653,C:\Users\Jean\Documents\Embarcadero\Studio\Projects\Project2.cbproj=D:\NCTU\DIF\Data Structures\Permutation.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
