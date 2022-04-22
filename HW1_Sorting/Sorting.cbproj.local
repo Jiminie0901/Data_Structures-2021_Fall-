@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/09/30 13:00:12.000.131,=C:\Users\Jean\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2021/09/30 13:00:12.000.063,=C:\Users\Jean\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2021/09/30 13:02:12.000.019,C:\Users\Jean\Documents\Embarcadero\Studio\Projects\HW1.dfm=C:\Users\Jean\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/09/30 13:02:12.000.019,C:\Users\Jean\Documents\Embarcadero\Studio\Projects\HW1.h=C:\Users\Jean\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2021/09/30 13:02:12.000.019,C:\Users\Jean\Documents\Embarcadero\Studio\Projects\HW1.cpp=C:\Users\Jean\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2021/09/30 13:02:18.000.048,C:\Users\Jean\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\Jean\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2021/09/30 14:12:07.000.175,D:\NCTU\DIF\Data Structures\HW01_sorting\HW1.h=C:\Users\Jean\Documents\Embarcadero\Studio\Projects\HW1.h</Transaction>
+    <Transaction>2021/09/30 14:12:07.000.175,D:\NCTU\DIF\Data Structures\HW01_sorting\HW1.cpp=C:\Users\Jean\Documents\Embarcadero\Studio\Projects\HW1.cpp</Transaction>
+    <Transaction>2021/09/30 14:12:07.000.175,D:\NCTU\DIF\Data Structures\HW01_sorting\HW1.dfm=C:\Users\Jean\Documents\Embarcadero\Studio\Projects\HW1.dfm</Transaction>
+    <Transaction>2021/09/30 14:12:56.000.005,D:\NCTU\DIF\Data Structures\HW01_sorting\selectionsortPCH1.h=C:\Users\Jean\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2021/09/30 14:12:56.000.015,D:\NCTU\DIF\Data Structures\HW01_sorting\selectionsort.cbproj=C:\Users\Jean\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2021/10/05 09:13:14.000.696,D:\NCTU\DIF\Data Structures\HW01_sorting\selectionsort.cbproj=D:\NCTU\DIF\Data Structures\HW01_sorting\Sortin.cbproj</Transaction>
+    <Transaction>2021/10/05 09:13:14.000.686,D:\NCTU\DIF\Data Structures\HW01_sorting\selectionsortPCH1.h=D:\NCTU\DIF\Data Structures\HW01_sorting\SortinPCH1.h</Transaction>
+    <Transaction>2021/10/05 09:13:25.000.002,D:\NCTU\DIF\Data Structures\HW01_sorting\SortinPCH1.h=D:\NCTU\DIF\Data Structures\HW01_sorting\SortingPCH1.h</Transaction>
+    <Transaction>2021/10/05 09:13:25.000.015,D:\NCTU\DIF\Data Structures\HW01_sorting\Sortin.cbproj=D:\NCTU\DIF\Data Structures\HW01_sorting\Sorting.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
